@@ -41,3 +41,11 @@ This project is a bare-bone backend service for a user authentication system bui
 
 - `concurrently`: For running multiple commands concurrently (useful in full-stack projects).
 - `nodemon`: For automatically restarting the server when file changes are detected.
+
+## Run the backend server:
+
+Start the server using the start script defined in package.json:
+
+```
+npm run server
+```
