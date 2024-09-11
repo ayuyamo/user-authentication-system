@@ -20,10 +20,10 @@ This project is a bare-bone backend service for a user authentication system bui
 
 ## Technologies Used
 
-    Node.js: Server-side JavaScript runtime.
-    MongoDB: NoSQL database for storing user information.
-    JWT (JSON Web Token): Used for secure authentication.
-    Postman: For testing API functionality
+- Node.js: Server-side JavaScript runtime.
+- MongoDB: NoSQL database for storing user information.
+- JWT (JSON Web Token): Used for secure authentication.
+- Postman: For testing API functionality
 
 ## Dependencies
 
