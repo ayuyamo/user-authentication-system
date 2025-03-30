@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project is a bare-bone backend service for a user authentication system built using `Node.js` and `MongoDB`. It provides essential functionalities for user registration, login, profile management, and comment posting through RESTful routes, with middleware for authentication and route protection. The service is tested using `Postman` for API functionality. There is no frontend component included in this repository.
-
+This project is a backend service for a user authentication system built using `Node.js` and `MongoDB`. It provides essential functionalities for user registration, login, profile management, and comment posting through RESTful routes, with middleware for authentication and route protection. The service is tested using `Postman` for API functionality. 
 ## Features
 
 - User Registration: Allows new users to sign up with their email and password.
